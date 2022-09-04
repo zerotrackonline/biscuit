@@ -19,6 +19,6 @@ L'association a été fondée en juillet 2022 par Malik SALEM (juriste) et Adria
 Notre site est en cours de construction, vous trouverez bientôt des publications, analyses et guides de bonnes pratiques.
 
 **Zero Track Online**, association enregistrée sous le numéro [W062018075](https://assozerotrack.online/assets/Recepisse_CR.pdf) 
-- [Status](https://assozerotrack.online/assets/statuts_zto.pdf)
+- [Statuts](https://assozerotrack.online/assets/statuts_zto.pdf)
 - Directeur de publication : Malik SALEM
 - Ce site n'utilise aucun traceur.
